@@ -96,6 +96,12 @@ Giller, Graham L. Adventures in Financial Data Science: The empirical properties
 |[PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)| 3.2k | :star::star::star::star: | Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity|
 |[OLPS](https://github.com/OLPS/OLPS)| 300 | :star::star: | A toolbox for On-Line Portfolio Selection |
 
+### AI-Powered Finance Tools
+
+|  Project | Stars | Recommendation | Description |
+|----|----|----|----|
+|[YIELD INTELLIGENCE](https://thebrierfox.github.io/yield-intelligence/)| - | :star::star::star: | Free AI-powered passive income analyzer with live U.S. Treasury rates, dividend stock screening, portfolio yield calculator, and Claude AI-generated fixed income analysis|
+
 ### High Performance Computing
 |  Project | Stars | Recommendation | Description |
 |----|----|----|----|
