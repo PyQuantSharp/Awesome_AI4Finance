@@ -46,7 +46,6 @@ The [AI4Finance Foundation](https://github.com/AI4Finance-Foundation) provides a
 | [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinNLP?style=flat-square) | Democratizing internet-scale financial data. NLP toolkit for financial news and social media data processing. |
 | [FinRL-Tutorials](https://github.com/AI4Finance-Foundation/FinRL-Tutorials) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Tutorials?style=flat-square) | Jupyter notebook tutorials covering stock trading, portfolio allocation, crypto trading, and more. |
 | [FinRL-Podracer](https://github.com/AI4Finance-Foundation/FinRL_Podracer) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL_Podracer?style=flat-square) | Cloud-based framework for massively parallel financial RL training. |
-| [FinRAG](https://github.com/AI4Finance-Foundation/FinRAG) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRAG?style=flat-square) | Retrieval-Augmented Generation for financial applications. |
 | [RLSolver](https://github.com/AI4Finance-Foundation/RLSolver) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/RLSolver?style=flat-square) | RL-based solver for combinatorial optimization problems in finance. |
 
 ---
