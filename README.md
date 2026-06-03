@@ -180,9 +180,9 @@ Tools for extracting trading signals from text — news, social media, SEC filin
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [FinBERT](https://github.com/ProsusAI/finBERT) | 2.1k ![Stars](https://img.shields.io/github/stars/ProsusAI/finBERT?style=flat-square) | Pre-trained NLP model for financial sentiment analysis. Fine-tuned on financial communication text. |
-| [VADER](https://github.com/cjhutto/vaderSentiment) | 5.0k ![Stars](https://img.shields.io/github/stars/cjhutto/vaderSentiment?style=flat-square) | Valence Aware Dictionary and sEntiment Reasoner. Rule-based sentiment analysis tool, widely used for financial social media and news text. |
 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 20.4k ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=flat-square) | Financial LLMs with built-in sentiment analysis capabilities via fine-tuning. |
+| [VADER](https://github.com/cjhutto/vaderSentiment) | 5.0k ![Stars](https://img.shields.io/github/stars/cjhutto/vaderSentiment?style=flat-square) | Valence Aware Dictionary and sEntiment Reasoner. Rule-based sentiment analysis tool, widely used for financial social media and news text. |
+| [FinBERT](https://github.com/ProsusAI/finBERT) | 2.1k ![Stars](https://img.shields.io/github/stars/ProsusAI/finBERT?style=flat-square) | Pre-trained NLP model for financial sentiment analysis. Fine-tuned on financial communication text. |
 
 ---
 
@@ -192,9 +192,9 @@ End-to-end platforms for algorithmic trading with broker integration.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [FinRL-X](https://github.com/AI4Finance-Foundation/FinRL-Trading) | 3.2k ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Trading?style=flat-square) | AI-native modular infrastructure for quantitative trading. Unifies data processing, strategy construction, backtesting, and broker execution with RL/LLM support. [Paper](https://arxiv.org/abs/2603.21330) |
 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 19.7k ![Stars](https://img.shields.io/github/stars/QuantConnect/Lean?style=flat-square) | Algorithmic trading engine. Multi-asset support with cloud integration for backtesting and live trading. |
 | [StockSharp](https://github.com/StockSharp/StockSharp) | 10.0k ![Stars](https://img.shields.io/github/stars/StockSharp/StockSharp?style=flat-square) | Algorithmic trading for stocks, forex, crypto, and options. GUI and API-based development. |
+| [FinRL-X](https://github.com/AI4Finance-Foundation/FinRL-Trading) | 3.2k ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Trading?style=flat-square) | AI-native modular infrastructure for quantitative trading. Unifies data processing, strategy construction, backtesting, and broker execution with RL/LLM support. [Paper](https://arxiv.org/abs/2603.21330) |
 
 ---
 
