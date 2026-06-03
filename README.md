@@ -6,7 +6,7 @@
 
 > A curated list of awesome AI / machine learning / deep learning / reinforcement learning / LLM tools, frameworks, and resources for quantitative finance.
 
-This list is maintained by the [AI4Finance Foundation](https://github.com/AI4Finance-Foundation). If you find it useful, please give it a star!
+This list is maintained by the [AI4Finance Foundation](https://github.com/AI4Finance-Foundation). If you find it useful, please give it a star🌟!
 
 ---
 
