@@ -77,6 +77,7 @@ Autonomous AI agents that can analyze markets, make trading decisions, and gener
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | ![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square) | Multi-agent LLM financial trading framework. Specialized agents (fundamentals, sentiment, technical) debate and reach consensus on trades. |
 | [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=flat-square) | Open-source AI agent platform for financial applications powered by LLMs. |
 | [FinMem](https://github.com/pipiku915/FinMem-LLM-StockTrading) | ![Stars](https://img.shields.io/github/stars/pipiku915/FinMem-LLM-StockTrading?style=flat-square) | LLM-based trading agent with layered memory (short/mid/long-term) for evolving market understanding. |
+| [QVeris](https://github.com/QVerisAI/qveris-agent-toolkit) | ![Stars](https://img.shields.io/github/stars/QVerisAI/qveris-agent-toolkit?style=flat-square) | Capability routing network for AI agents to discover, inspect, and call 10,000+ real-world financial capabilities through one unified MCP protocol. |
 
 ---
 
