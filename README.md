@@ -188,6 +188,7 @@ Tools and APIs for accessing financial market data — stocks, crypto, forex, an
 | [jqdatasdk](https://github.com/JoinQuant/jqdatasdk) | 1.3k ![Stars](https://img.shields.io/github/stars/JoinQuant/jqdatasdk?style=flat-square) | JoinQuant's Python data SDK for Chinese financial market data. |
 | [DeFiLlama Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) | 1.2k ![Stars](https://img.shields.io/github/stars/DefiLlama/DefiLlama-Adapters?style=flat-square) | Open-source DeFi TVL calculation adapters for 2,400+ protocols across 180+ blockchains. |
 | [WRDS](https://github.com/wharton/wrds) | 155 ![Stars](https://img.shields.io/github/stars/wharton/wrds?style=flat-square) | Python interface to Wharton Research Data Services for academic financial research. |
+| [The Stall](https://github.com/thebrierfox/the-stall) | ![Stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=flat-square) | MCP server with 173 financial market data capabilities — stocks, ETFs, crypto, DeFi, options, SEC filings, earnings, analyst ratings, and macro indicators. Pay-per-call via x402 micropayments on Base; no API keys required. |
 
 ---
 
