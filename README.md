@@ -50,6 +50,7 @@ The [AI4Finance Foundation](https://github.com/AI4Finance-Foundation) provides a
 | [RLSolver](https://github.com/AI4Finance-Foundation/RLSolver) | 167 ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/RLSolver?style=flat-square) | RL-based solver for combinatorial optimization problems in finance. |
 
 ---
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## LLMs for Finance
 
