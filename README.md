@@ -334,3 +334,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Feedback**: If you have any ideas or want content added to this list, feel free to [open an issue](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance/issues) or [submit a PR](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance/pulls).
+- [BDE Score™](https://github.com/hbhqq9/bde-score) - AI-Powered Multi-Market Stock Analysis — transparent multi-factor scoring for 73 stocks across US, HK, and A-share markets. EU AI Act Art.50 compliant.
