@@ -129,6 +129,7 @@ General machine learning approaches for financial prediction, alpha generation, 
 | [Adv_Fin_ML_Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises) | 1.9k ![Stars](https://img.shields.io/github/stars/BlackArbsCEO/Adv_Fin_ML_Exercises?style=flat-square) | Experimental solutions to exercises from *Advances in Financial Machine Learning*. |
 | [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy) | 1.7k ![Stars](https://img.shields.io/github/stars/ScottfreeLLC/AlphaPy?style=flat-square) | ML framework for both speculators and data scientists. Automated feature engineering and model selection. |
 | [fin-ml](https://github.com/tatsath/fin-ml) | 1.2k ![Stars](https://img.shields.io/github/stars/tatsath/fin-ml?style=flat-square) | Code for case studies in *Machine Learning and Data Science Blueprints for Finance*. |
+| [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) | 38 ![Stars](https://img.shields.io/github/stars/initial-d/ml-quant-trading?style=flat-square) | Paper-backed PyTorch research stack for mask-aware multi-factor modeling, ML baselines, portfolio optimization, and vectorized backtesting. |
 
 ---
 
