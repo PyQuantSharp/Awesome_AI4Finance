@@ -94,6 +94,7 @@ Autonomous AI agents that can analyze markets, make trading decisions, and gener
 | [FinMem](https://github.com/pipiku915/FinMem-LLM-StockTrading) | 903 ![Stars](https://img.shields.io/github/stars/pipiku915/FinMem-LLM-StockTrading?style=flat-square) | LLM-based trading agent with layered memory (short/mid/long-term) for evolving market understanding. |
 | [QVeris](https://github.com/QVerisAI/qveris-agent-toolkit) | 230 ![Stars](https://img.shields.io/github/stars/QVerisAI/qveris-agent-toolkit?style=flat-square) | Capability routing network for AI agents to discover, inspect, and call 10,000+ real-world financial capabilities through one unified MCP protocol. |
 | [Superhighway M&A Research Agent](https://superhighway.walls.sh/guides/ma-research-agent) | – | Python agent that researches comparable M&A transactions, deal multiples, potential acquirers, and recent deal activity via live web search. Generates structured M&A intelligence briefs for corporate development, PE analysts, and investment bankers. Pay-per-call, no signup. |
+| [NeuPortal](https://neuportal.ai) | – | AI forecasting-accountability lab. Every AI forecast is locked pre-event, Bitcoin-timestamped via OpenTimestamps, and Brier-scored in public against prediction markets across crypto, macro, and sports. Hosted, closed-source service. |
 
 ---
 
